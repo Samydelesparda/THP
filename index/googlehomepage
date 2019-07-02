@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Google</title>
+        <meta charset="utf-8" />
+        <link rel="stylesheet" href="style.css" />
+    </head>
+<body>
+		<header class="nav">
+            <ul>
+				<li>Gmail
+				<div class="roll"></div>
+				</li>
+				<li>Images
+				<div class="roll"></div>
+				</li>
+                <li><img src="grid-google.png"/>
+                <div class="picture"></div>
+                </li>
+				<li><form method="get" action="https://www.wikihow.com/Main-Page"><button type="submit">Connexion</button></form>
+                <div class="button"></div>
+                </li>
+            </ul>
+       </header>
+<main>
+<div class="picturehome">
+				<img src="googlelogo.png"/>
+</div>
+<div id="tfheader">
+    <form id="tfnewsearch" method="get" action="http://mywebsite.com">
+            <input type="text" class="tftextinput" name="q" size="70">
+    </form>
+</div>
+<div id="buttons">  
+            <form method="get" action="https://www.wikihow.com/Main-Page"><button type="submit">Recherche</button></form>
+            <form method="get" action="https://www.wikihow.com/Main-Page"><button type="submit">J'ai de la chance</button></form>
+</div>
+</main>
+<footer class="vertical-align">
+			<span>France</span>
+    <hr>
+            <span>Publicité Entreprise À propos Comment fonctionne la recherche Google ?</span>
+		</footer>
+	</body>
+</html>
