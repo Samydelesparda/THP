@@ -1,0 +1,9 @@
+Quelles sont les différences entre les trois programmes ?
+
+ils n'affichent pas la même chose .
+
+prog 1 : demande un output
+
+prog 2 : va afficher le nom avec un chevron devant
+
+prog 3 : ne va rien afficher car aucune variable n'est renseigné
